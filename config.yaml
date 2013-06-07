@@ -1,0 +1,5 @@
+address: 'mail.xxx.com'
+port: 25
+user_name: 'root'
+password: 'password'
+from_email: "noreply@xxx.com"
